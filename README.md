@@ -15,3 +15,6 @@ Dead HTML page. Sample file from Rich Hall Photography (3).zip
 
 # Assignment 1.cpp
 Calculates number of miles that can be driven on a full tank given tank size and vehicle miles/gallon values entered by the user. Written for CS 205 at Limestone College
+
+# Bill.cpp
+Calculates bill for services with or without tip included and with or without a 10% Senior Citizens discount. Written for CS 205 at Limestone College
