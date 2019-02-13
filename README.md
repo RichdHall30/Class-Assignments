@@ -8,4 +8,7 @@ Collection of programs that can be accessed from a simple, easy to use menu inte
 Small program written in class to practice using string data types. Written in ITSC 1212 at UNCC
 
 # Rich Hall Photography (3).zip
-Small HTML Webpage written to display some of my photography and photoshop skills. Written for a webpage development course at Limestone College
+Small HTML Webpage written to display some of my photography and photoshop skills. Written for CS234 webpage development at Limestone College
+
+# Photography.html
+Dead HTML page. Sample file from Rich Hall Photography (3).zip
