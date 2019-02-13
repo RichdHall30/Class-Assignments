@@ -18,3 +18,6 @@ Calculates number of miles that can be driven on a full tank given tank size and
 
 # Bill.cpp
 Calculates bill for services with or without tip included and with or without a 10% Senior Citizens discount. Written for CS 205 at Limestone College
+
+# Assignment3-Hall.cpp
+This program allows the user to enter a series of numbers and returns the sum of all the even numbers along with the sum of all the odd numbers after the user enters the escape value of 0. Written for CS 205 at Limestone College
