@@ -19,8 +19,8 @@ Small program written in class to practice using string data types. Written in I
 # Program_1_Pick_A_Card.java
 This program randomly generates a number that corresponds to a card from a standard deck of 52 playing cards and displays that card to the user. Written for ITSC 1212 at UNC Charlotte
 
-# Rich Hall Photography (3).zip
-Small HTML Webpage written to display some of my photography and photoshop skills. Written for CS234 webpage development at Limestone College
-
 # R_Hall_Assignment_1.java
 Collection of programs that can be accessed from a simple, easy to use menu interface. Written for ITSC 1212 at UNCC
+
+# Rich Hall Photography (3).zip
+Small HTML Webpage written to display some of my photography and photoshop skills. Written for CS234 webpage development at Limestone College
